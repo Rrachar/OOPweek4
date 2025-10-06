@@ -19,6 +19,7 @@ public class StudentApp {
         int i = 0;
         while (i < count) {
 
+
             System.out.print("Enter Student name: ");
             String name = sc.nextLine();
 
@@ -27,6 +28,8 @@ public class StudentApp {
 
             System.out.print("Enter Student Course: ");
             String course = sc.nextLine();
+
+
             i++;
         }
         //
